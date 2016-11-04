@@ -55,6 +55,7 @@ void loop() {
       measure();
      }
    }
+   while(1);
  }
 
 
